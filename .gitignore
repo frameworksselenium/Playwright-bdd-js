@@ -1,0 +1,8 @@
+
+# Dependency directories
+node_modules/
+playwright-report
+test-results
+# Editor-specific files
+.vscode/
+.features-gen
